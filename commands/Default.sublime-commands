@@ -1,2 +1,6 @@
 [
+    {
+        "caption": "ZCE: Markdown Preview",
+        "command": "markdown_preview"
+    },
 ]

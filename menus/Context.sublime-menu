@@ -3,7 +3,7 @@
     "caption": "@zce",
     "children": [
       { "caption": "-", "id": "file" },
-      { "caption": "Open in Browser", "command": "open_in_browser" },
+      { "caption": "Markdown Preview", "command": "markdown_preview" },
       { "caption": "Open in Command", "command": "open_terminal" }
     ]
   }
